@@ -9,7 +9,7 @@ A form that shows or hides the star names in the Orion Constellation via label c
 
 - <b>C#</b> 
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Microsoft Visual Studio</b> (2022 Community)
 
